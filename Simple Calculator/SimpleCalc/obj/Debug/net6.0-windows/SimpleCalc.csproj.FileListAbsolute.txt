@@ -1,0 +1,14 @@
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.exe
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.deps.json
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.runtimeconfig.json
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.dll
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\bin\Debug\net6.0-windows\SimpleCalc.pdb
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.AssemblyInfoInputs.cache
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.AssemblyInfo.cs
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.dll
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\refint\SimpleCalc.dll
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.pdb
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\SimpleCalc.genruntimeconfig.cache
+C:\Users\Rino Simon\Projects\C#\Simple Calculator\SimpleCalc\obj\Debug\net6.0-windows\ref\SimpleCalc.dll
